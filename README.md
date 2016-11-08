@@ -119,6 +119,7 @@ sometimes word-for-word in Google's coaching notes.
 
 ## Why use it?
 
+Hello!!
 I'm following this plan to prepare for my Google interview. I've been building the web, building
 services, and launching startups since 1997. I have an economics degree, not a CS degree.  I've
 been very successful in my career, but I want to work at Google. I want to progress into larger systems
@@ -141,7 +142,7 @@ Everything below is an outline, and you should tackle the items in order from to
 
 I'm using Github's special markdown flavor, including tasks lists to check progress.
 
-- [_] Create a new branch so you can check items like this, just put an x in the brackets: [x]
+- [x] Create a new branch so you can check items like this, just put an x in the brackets: [x]
 
 
     Fork a branch and follow the commands below
